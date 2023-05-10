@@ -1,0 +1,19 @@
+ATM Transactions
+ 
+step1:start
+step2:enter the card
+step3:check if the card is valid or invalid
+step4:if the card is invalid,return the card
+step5:enter the language
+step6:enter the pin
+step7:if the pin is invalid repeat step6
+step8:if the pin is invalid repeat step6
+step9:if the pin is valid
+step10:select account type
+step11:type of transaction
+step12:enter the amount
+step13:collect the amount
+step14:show the balance
+step15:receipt
+step16:remove the card
+step17:stop.

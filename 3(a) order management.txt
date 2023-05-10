@@ -1,0 +1,12 @@
+3(a) order management
+
+step1:start
+step2:search the restaurant
+step3:select the items
+step4:add cart
+step5:enter the address
+step6:select the payment option
+step7:pay the amount of item
+step8:place the order
+step9:taken the item
+step10:stop

@@ -1,0 +1,8 @@
+Employee Management
+
+step1:start
+step2:enter the employee
+step3:give the one task to employee
+step4:if the employee is complete the work,appreciate the manager 
+step5:if the employee is don't complete the work,he is leave the job
+step6:stop

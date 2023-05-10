@@ -1,0 +1,10 @@
+Library management
+step1:start
+step2:enter the library
+step3:put a sign in register and roll no. and branch
+step4:goto library sir/madam
+step5:asking the we need book to mdam
+step6:madam is taken the book
+step7:we sign in library card and date&time 
+step8:we are taking the book by madam
+step9:stop 

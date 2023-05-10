@@ -1,0 +1,11 @@
+Kitchen management
+
+step1:start
+step2:enter the kitchen
+step3:i am cook the biryani
+step4:if i need the requirements of biryani
+step5:ready to the requirements on need stove
+step6:then cook well with all required ingredients
+step7:biryani is ready
+step8:surve it in bowl
+step9:stop
