@@ -1,0 +1,13 @@
+student management system
+
+step1:start
+step2:enter the student
+step3:enter the name
+step4:enter the college name
+step5:enter the place
+step4:enter the branch
+step5:enter the roll no
+step6:enter the ph no
+step7:enter the e mail
+step8:stop
+ 

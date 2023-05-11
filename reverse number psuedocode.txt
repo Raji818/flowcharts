@@ -1,0 +1,11 @@
+reverse number psuedocode
+
+input:number
+output:reverse number
+step1:start
+step2:procedure reverse number
+step3:initialize the variable to 0
+step4:initialize the loop variable i=1
+step5:repeat the step and step6 while i<=n
+step6:increment/decrement
+step7:stop

@@ -1,0 +1,11 @@
+algorithm of no.of count digit
+
+step1:start
+step2:read n no.
+step3:initialize n=12345
+step4:count=0
+step5:wwhile no!=0
+step6:update the count value count=count+i
+step7:no=no/10
+step8:display count
+step9:stop

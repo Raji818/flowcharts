@@ -1,0 +1,13 @@
+Psuedocode for no.of count digits
+
+1:start
+2:n=12345
+3:count=0
+4:while no!=0
+5:no=no/10
+7:procedure no.of count digits
+8:initialize count variable to 0
+9:initialize loop variable=5
+10:repeat the step3 and step4
+11:increment/decrement
+12:stop
